@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "DAOUD Amine"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/fort point.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "DAOUD Portfolio"
   location         : "ALGERIA"
   email            :
